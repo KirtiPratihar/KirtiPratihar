@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Image Processing and Artificial Intelligence<br>👯 I’m looking to collaborate on Image Processing<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Data Science, Machine Learning and Image Processing<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Image Processing and Artificial Intelligence<br>👯 I’m looking to collaborate on Image Processing<br>🤝 I’m looking for help with image processing and Machine Learning<br>🌱 I’m currently learning Data Science, Machine Learning and Image Processing<br>💬 Ask me about<br>⚡ Fun fact- I like to learn Japanese in my free time.
 
 
 ## 🌐 Socials:
