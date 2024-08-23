@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kirti+Pratihar!;" />
 </h1>
-#--
+
 # 💫 About Me:
 🔭 I’m currently working on Image Processing and Artificial Intelligence<br>👯 I’m looking to collaborate on Image Processing<br>🤝 I’m looking for help with image processing and Machine Learning<br>🌱 I’m currently learning Data Science, Machine Learning and Image Processing<br>💬 Ask me about anything!<br>⚡ Fun fact- I like to learn Japanese in my free time.
 
