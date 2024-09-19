@@ -40,7 +40,7 @@
 </p>
 <p align="center">
   
-<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Uditya_Narayan_Tiwari?theme=dark&font=Nunito&ext=heatmap&width=600&height=300&animation=true" /> 
+<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/kirti03?theme=dark&font=Nunito&ext=heatmap&width=600&height=300&animation=true" /> 
 </p>
 
 
