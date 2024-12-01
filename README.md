@@ -4,7 +4,7 @@
 </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on Image Processing and Artificial Intelligence<br>👯 I’m looking to collaborate on Image Processing<br>🤝 I’m looking for help with image processing and Machine Learning<br>🌱 I’m currently learning Data Science, Machine Learning and Image Processing<br>💬 Ask me about anything!<br>⚡ Fun fact- I like to learn Japanese in my free time.
+🔭 I’m currently working on Data Science and Machine Learning<br>👯 I’m looking to collaborate on Machine Learning Projects<br>🤝 I’m looking for help with image processing and Machine Learning<br>🌱 I’m currently learning Data Science, Machine Learning and Image Processing<br>💬 Ask me about anything!<br>⚡ Fun fact- I like to learn Japanese in my free time.
 
 
 ## 🌐 Socials:
@@ -43,11 +43,6 @@
 <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/kirti03?theme=dark&font=Nunito&ext=heatmap&width=600&height=300&animation=true" /> 
 </p>
 
-
-
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
 [![](https://visitcount.itsvg.in/api?id=KirtiPratihar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
