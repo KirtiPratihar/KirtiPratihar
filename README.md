@@ -1,3 +1,4 @@
+
 <!-- Masterhead Animation -->
 <p align="center">
   <img src="1.gif" alt="MasterHead" />
@@ -11,12 +12,12 @@
 
 ## 💫 About Me
 
-- 🔭 I’m currently working on Data Science and Machine Learning
-- 👯 I’m looking to collaborate on Machine Learning Projects
-- 🤝 I’m looking for help with image processing and Machine Learning
-- 🌱 I’m currently learning Data Science, Machine Learning and Image Processing
-- 💬 Ask me about anything!
-- ⚡ Fun fact: I like to learn Japanese in my free time.
+- 🔭 I’m working on Data Science & Machine Learning
+- 👯 Searching for ML project collaboration
+- 🤝 Keen to connect for Image Processing and Machine Learning
+- 🌱 Learning Data Science, Machine Learning, and Image Processing
+- 💬 Ask me anything!
+- ⚡ Fun fact: I enjoy learning Japanese
 
 ---
 
@@ -41,7 +42,7 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -61,7 +62,7 @@
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</p>
+</div>
 
 ---
 
@@ -83,11 +84,14 @@
 
 ---
 
-## 🚀 Leetcode Info
+## 🚀 LeetCode Info
 
 <h2 align="center">Leetcode Info</h2>
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Kirti03" alt="LeetCode Badges" />
+  <!-- Responsive badge container, wraps badges horizontally -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Kirti03" alt="LeetCode Badges" style="max-width:100%;" />
+  </div>
 </p>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/kirti03?theme=dark&font=Nunito&ext=heatmap&width=600&height=300&animation=true" alt="LeetCode Stats" />
@@ -98,13 +102,5 @@
 ## 📫 How to Reach Me
 
 - 📬 **Email:** pratiharkirti@gmail.com
-
----
-
-## 🕒 Visitor Count
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=KirtiPratihar&icon=0&color=0" alt="Visitor Count"/>
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
