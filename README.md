@@ -61,7 +61,6 @@
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 
 ---
@@ -85,13 +84,9 @@
 ---
 
 ## 🚀 LeetCode Info
-
 <h2 align="center">Leetcode Info</h2>
 <p align="center">
-  <!-- Responsive badge container, wraps badges horizontally -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Kirti03" alt="LeetCode Badges" style="max-width:100%;" />
-  </div>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Kirti03" alt="LeetCode Badges" />
 </p>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/kirti03?theme=dark&font=Nunito&ext=heatmap&width=600&height=300&animation=true" alt="LeetCode Stats" />
