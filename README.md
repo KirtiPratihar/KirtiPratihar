@@ -31,16 +31,17 @@
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KirtiPratihar&theme=radicall&no-frame=false&no-bg=false&margin-w=4)
 
-
-<h2 align="center">Leetcode Info<h2>
- 
+<h2 align="center">Leetcode Info</h2>
 <p align="center">
-  ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Kirti03)
-
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Kirti03" alt="LeetCode Badges" />
 </p>
 <p align="center">
-  
-<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/kirti03?theme=dark&font=Nunito&ext=heatmap&width=600&height=300&animation=true" /> 
+  <img src="https://leetcard.jacoblin.cool/kirti03?theme=dark&font=Nunito&ext=heatmap&width=600&height=300&animation=true" alt="LeetCode Stats" />
+</p>
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=KirtiPratihar&icon=0&color=0" alt="visitor badge"/>
+  </a>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=KirtiPratihar&icon=0&color=0)](https://visitcount.itsvg.in)
