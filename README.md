@@ -35,7 +35,7 @@
 <h2 align="center">Leetcode Info<h2>
  
 <p align="center">
-  <a href="https://leetcode.com/u/Kirti03/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="100" width="100" /></a>
+  ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Kirti03)
 
 </p>
 <p align="center">
